@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Iván Escalante
 
-<!--
-**Iescalantes/Iescalantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desarrollador Fullstack y Multiplataforma con formación en desarrollo web, sistemas y multiplataforma.  
+💼 Apasionado por la tecnología, con experiencia profesional en Microsoft 365 y desarrollo de aplicaciones.  
+🌱 Siempre en busca de nuevos conocimientos y retos que me hagan crecer como desarrollador.
 
-Here are some ideas to get you started:
+## 💡 Tecnologías y herramientas
+- Lenguajes: **Java**, **Python**, **C#**, **Kotlin**, **JavaScript**, **PHP**
+- Backend: **Node.js**, **Django**
+- Bases de datos: **MongoDB**, **SQL**
+- Frontend: **Angular**
+- Herramientas: **Microsoft 365**, **SCRUM**, **Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Experiencia destacada
+- **Técnico Microsoft 365 – Kyndryl (2023)**  
+  Gestión de usuarios y sistemas en el entorno de Microsoft 365.
+
+- **Desarrollador Web – Tecnicom Informática (2025)**  
+  Desarrollo de aplicaciones web y móviles en entornos multiplataforma.
+
+## 📚 Formación
+- **DAW (Desarrollo de Aplicaciones Web)** – IES Alixar (2021 - 2023)  
+- **DAM (Desarrollo Multiplataforma)** – IES Majuelo (2024 - 2025)  
+- **Técnico en Sistemas Microinformáticos y Redes** – IES Alixar (2019 - 2021)
+
+## 🌐 Conecta conmigo
+- 📧 ivanescalantesierra@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-escalante-sierra-44a62826b)
+
+---
+
+⭐ Gracias por visitar mi perfil. ¡Estoy abierto a colaboraciones y nuevas oportunidades!
