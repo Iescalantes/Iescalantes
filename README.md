@@ -28,8 +28,9 @@
 
 ## 📌 Sobre mí
 
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma** (IES Majuelo, 2024 - 2025)
+- 🎓 Cursando actualmente **Curso de inicio AWS** (Udemy)
 - 🧠 Graduado en **Desarrollo Web** y **Sistemas Microinformáticos** (IES Alixar)
+- 🧠 Graduado en **Desarrollo de Aplicaciones Multiplataforma** (IES Majuelo, 2024 - 2025)
 - 🧩 Creativo, comunicativo y siempre con ganas de aprender más
 
 ---
@@ -47,8 +48,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanescalantesierra&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanescalantesierra&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iescalantes&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iescalantes&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
